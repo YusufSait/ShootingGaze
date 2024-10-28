@@ -17,7 +17,7 @@ If you use this code in your research or for more details about the method, plea
    > Erdem, Yusuf Sait, et al. "Computer Game Controlled by Eye Movements." _International Journal of Scientific Research in Information Systems and Engineering (IJSRISE)_ 1 (2015): 97-102.
 
 
-## Utilized tools:
+## Utilized Tools
    - "Processing" v4.3 (core, video): https://processing.org
    - "Opencv_processing": https://github.com/atduskgreg/opencv-processing/
    - "Proclipsing" v0.9a: https://github.com/ybakos/proclipsing
