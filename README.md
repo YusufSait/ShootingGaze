@@ -21,3 +21,5 @@ If you use this code in your research or for more details about the method, plea
    - "Processing" v4.3 (core, video): https://processing.org
    - "Opencv_processing": https://github.com/atduskgreg/opencv-processing/
    - "Proclipsing" v0.9a: https://github.com/ybakos/proclipsing
+
+- This project was completed as a graduation project at Gediz University - Computer Engineering Department in 2015.
