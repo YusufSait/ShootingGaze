@@ -16,6 +16,7 @@ https://github.com/user-attachments/assets/2c1029ae-8e0d-4bc4-a799-d3ff686fed0d
 If you use this code in your research or for more details about the method, please refer to our paper:
    > Erdem, Yusuf Sait, et al. "Computer Game Controlled by Eye Movements." _International Journal of Scientific Research in Information Systems and Engineering (IJSRISE)_ 1 (2015): 97-102.
 
+## Note
 This project was completed as a graduation project at Gediz University - Computer Engineering Department in 2015.
 
 ## Utilized Tools
